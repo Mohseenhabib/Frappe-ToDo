@@ -3,7 +3,7 @@ from . import __version__ as app_version
 app_name = "frappe_todo"
 app_title = "Frappe Todo"
 app_publisher = "mohseen"
-app_description = "custom Frappe Todo app"
+app_description = "Frappe custom todo App"
 app_email = "mohseen@dlisaudi.com"
 app_license = "MIT"
 

@@ -1,6 +1,6 @@
 ## Frappe Todo
 
-custom Frappe Todo app
+Frappe custom todo App
 
 #### License
 

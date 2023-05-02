@@ -9,7 +9,7 @@ from frappe_todo import __version__ as version
 setup(
 	name="frappe_todo",
 	version=version,
-	description="custom Frappe Todo app",
+	description="Frappe custom todo App",
 	author="mohseen",
 	author_email="mohseen@dlisaudi.com",
 	packages=find_packages(),
